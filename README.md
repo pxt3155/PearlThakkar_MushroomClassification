@@ -9,7 +9,9 @@ Overall, this project focuses on understanding the data, building a simple basel
 ## Dataset
 Kaggle dataset : https://www.kaggle.com/datasets/uciml/mushroom-classification?select=mushrooms.csv
 
-The dataset has 8124 mushrooms and 22 features, and everything is categorical (no numeric values).
+- Total rows: 8124 mushrooms
+- Total columns: 23 (22 features + class)
+- All features are categorical
 
 ## Problem Setup
 - Input: mushroom features (odor, cap-shape, gill-color, etc.)
