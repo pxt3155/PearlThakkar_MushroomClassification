@@ -57,6 +57,8 @@ I tried writing a manual rule using if-else statements (mainly based on odor).
 
 That only got about **80% accuracy**. This shows that while odor is very strong, the full models combine multiple features to get a better idea of the overall results.
 
+<img width="689" height="367" alt="image" src="https://github.com/user-attachments/assets/81943a81-26cc-4c8b-ac6b-173d5771586a" />
+
 ---
 
 ## Comparison
@@ -66,8 +68,6 @@ That only got about **80% accuracy**. This shows that while odor is very strong,
 | Odor Rule | 98.52% |
 | Logistic Regression | 100% |
 | Decision Tree | 100% |
-
-<img width="533" height="334" alt="image" src="https://github.com/user-attachments/assets/1544537d-2014-4c3d-b898-10138d32b135" />
 
 
 ---
