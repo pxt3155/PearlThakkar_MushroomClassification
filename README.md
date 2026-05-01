@@ -70,7 +70,7 @@ That only got about **80% accuracy**. This shows that while odor is very strong,
 | Odor Rule | 98.52% |
 | Logistic Regression | 100% |
 | Decision Tree | 100% |
-
+| Manual Rule | 80.23% |
 
 ---
 
