@@ -1,4 +1,4 @@
-# Mushroom Classification Project - Pearl Thakkar
+# Mushroom Classification Project
 This project analyzes a mushroom dataset to classify whether a mushroom is edible or poisonous based on its features.
 
 ## Overview
@@ -19,7 +19,7 @@ The dataset has 8124 mushrooms and 22 features, and everything is categorical (n
 When I first explored the dataset, I noticed that most features had multiple categories, but one feature stood out a lot — **odor**.
 Some odor types were almost always poisonous, while others were almost always edible, so I decided to test that first.
 
-<img width="654" height="361" alt="image" src="https://github.com/user-attachments/assets/cea876c6-6e29-4a41-a1db-003090ab6202" />
+<img width="565" height="354" alt="image" src="https://github.com/user-attachments/assets/f1228f74-a96f-4123-8524-35e9c1362fb9" />
 
 
 ---
@@ -45,6 +45,9 @@ I also trained a decision tree to see how it makes decisions.
 
 - Accuracy = **100%**
 
+<img width="654" height="361" alt="image" src="https://github.com/user-attachments/assets/cea876c6-6e29-4a41-a1db-003090ab6202" />
+
+
 The tree confirmed what I saw earlier, that odor is one of the first splits, but it also uses other features like spore-print color and stalk features.
 
 ---
@@ -69,7 +72,7 @@ That only got about **80% accuracy**. This shows that while odor is very strong,
 
 ---
 
-## Takeaways
+## Key Takeaways
 
 - Odor is clearly the most important feature
 - Even a simple rule works really well
@@ -80,4 +83,4 @@ One important takeaway for me was that doing simple analysis first (like checkin
 ---
 
 ## Files
-- `Pearl Thakkar - Mushroom Classification.ipynb` → full notebook with all code and outputs
+- `Pearl Thakkar - Mushroom Classification.ipynb` : detailed notebook with all code and outputs
