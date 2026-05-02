@@ -84,5 +84,26 @@ One important takeaway for me was that doing simple analysis first (like checkin
 
 ---
 
+## Future Work
+
+- Try identifying whether a single feature (like odor) can completely classify the data on its own.
+- Explore how different train-test splits affect the model accuracy.
+- Improve the manual rule by incorporating more features from the decision tree.
+- Test the models on a non-categorical data set (with numbers instead if letters) to see if performance still remains high.
+
+---
+
+## How to Reproduce Results
+
+1. Clone this repository: git clone https://github.com/pxt3155/PearlThakkar_MushroomClassification.git
+2. Download the dataset from Kaggle:
+https://www.kaggle.com/datasets/uciml/mushroom-classification
+3. Place the `mushrooms.csv` file in the same folder as the notebook.
+4. Open the notebook: `Pearl Thakkar - Mushroom Classification.ipynb`
+5. Run all cells from top to bottom.
+6. The outputs (accuracy scores, plots, and results) will be generated automatically.
+
+---
+
 ## Files
 - `Pearl Thakkar - Mushroom Classification.ipynb` : detailed notebook with all code and outputs
