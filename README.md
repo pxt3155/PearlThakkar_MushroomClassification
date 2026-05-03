@@ -2,7 +2,7 @@
 This project analyzes a mushroom dataset to classify whether a mushroom is edible or poisonous based on its features.
 
 ## Overview
-In this project, I worked with a mushroom classification dataset to predict whether a mushroom is edible or poisonous based on its features. I started by exploring the dataset to understand the structure and identify important patterns. A key feature 'odor' was used to then create a baseline. I trained Logistic Regression and Decision Tree models using all features to compare their performance with the baseline. Both models achieved perfect accuracy on the test data, showing that the dataset is highly structured and that combining features leads to better predictions.
+In this project, I worked with a mushroom classification dataset to predict whether a mushroom is edible or poisonous based on its features. I started by exploring the dataset to understand the structure and identify important patterns. A key feature 'odor' was used to then create a baseline, which achieved **98.52% accuracy**. I trained Logistic Regression and Decision Tree models using all features to compare their performance with the baseline. Both models achieved **100% accuracy** on the test data, showing that the dataset is highly structured and that combining features leads to better predictions.
 
 Overall, this project focuses on understanding the data, building a simple baseline, and then using machine learning models to improve and confirm the results.
 
